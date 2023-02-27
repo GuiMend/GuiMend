@@ -8,13 +8,13 @@ SeniorSoftwareEngineer = specializedIn([
   MaterialUI,
   GraphQL,
   Git,
-])
-.vettedTalentIn([
+]).vettedTalentIn([
   X-Team,
   Toptal,
   Andela,
   Turing,
   BridgerHQ,
+  Karat,
 ])
 
 ```
