@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there, my name is Guilherme 👋
+
+```js
+SeniorSoftwareEngineer = specializedIn([
+  Frontend,
+  React,
+  TypeScript,
+  MaterialUI,
+  GraphQL,
+  Git,
+])
+.vettedTalentIn([
+  X-Team,
+  Toptal,
+  Andela,
+  Turing,
+  BridgerHQ,
+])
+
+```
 
 <!--
 **GuiMend/GuiMend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
