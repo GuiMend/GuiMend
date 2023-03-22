@@ -9,6 +9,7 @@ SeniorSoftwareEngineer = specializedIn([
   GraphQL,
   Git,
 ]).vettedTalentIn([
+  A.Team,
   X-Team,
   Toptal,
   Andela,
