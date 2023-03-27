@@ -10,12 +10,13 @@ SeniorSoftwareEngineer = specializedIn([
   Git,
 ]).vettedTalentIn([
   A.Team,
-  X-Team,
-  Toptal,
   Andela,
-  Turing,
   BridgerHQ,
   Karat,
+  Nexton,
+  Toptal,
+  Turing,
+  X-Team,
 ])
 
 ```
