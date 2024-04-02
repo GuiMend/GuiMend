@@ -1,4 +1,4 @@
-### Hi there, my name is Guilherme 👋
+### Hi there 👋
 
 ```js
 SeniorSoftwareEngineer = specializedIn([
